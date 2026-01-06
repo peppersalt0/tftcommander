@@ -2,7 +2,7 @@
 python-dotenv==1.0.0
 
 # Riot API
-riotwatcher==3.4.0
+riotwatcher==3.3.1
 
 # Computer Vision
 opencv-python==4.8.1.78
