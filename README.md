@@ -1,9 +1,9 @@
-# TFT AI Coach
+# TFT ML + CV Player System
 
-An AI-powered coaching system for Teamfight Tactics.
+An ML + CV based agent for Teamfight Tactics.
 
 ## Project Goal
-Build a bot that forces Ashe reroll to Diamond+ rank.
+Build a bot that forces 1-2 compisitions to Diamond+ rank.
 
 ## Current Status
 Just started - setting up project structure
